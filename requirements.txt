@@ -1,5 +1,8 @@
+streamlit
 opencv-python
-opencv-contrib-python
 numpy
 pandas
-streamlit
+matplotlib
+scikit-learn
+tensorflow
+Pillow
