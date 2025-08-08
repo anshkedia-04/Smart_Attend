@@ -2,7 +2,7 @@
 > **AI-powered Face Recognition Attendance System**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-Backend-ff4b4b?style=for-the-badge&logo=streamlit)
 ![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNN%2C%20MobileNet%2C%20FaceNet-orange?style=for-the-badge&logo=tensorflow)
 
